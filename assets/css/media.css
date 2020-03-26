@@ -1,0 +1,321 @@
+@media screen and (max-width: 1125px){
+	.bottom-navbar-ul li a {
+		padding: 2px 7px;
+		font-size: 12px;
+	}
+	
+	.slider-control {
+		left: 59px!important;
+	}
+	
+	.text-header {
+		font-size: 18px;
+	}
+	.text-header span{
+		top: 79px;
+		padding: 0px 12px;
+		font-size: 13px;
+	}
+	
+	.slider-line{
+		margin-top: 19px;
+	}
+	
+	.main-bottom-h4{
+		font-size: 13px;
+	}
+	
+	.bottom-section-imgandtext img {
+		width: 120px;
+	}
+	
+	.bottom-section-h4 {
+		font-size: 13px;
+	}
+	
+	
+}
+
+@media screen and (max-width: 991px){
+	
+	.submenu li a {
+		padding: 6px;
+		font-size: 12px;
+	}
+	
+	.drp-ul li a.border {
+		font-size: 9px;
+		padding: 0 9px;
+	}
+	
+	h1.logo a.navbar-brand {
+		font-size: 13px;
+	}
+	
+	.right-info li {
+		font-size: 10px;
+	}
+	
+	.viewport-logo {
+		font-size: 24px;
+	}
+	
+	.viewport-logo span {
+		font-size: 11px;
+	}
+	
+	.bottom-navbar-ul li a {
+		padding: 2px 8px;
+		font-size: 9px;
+	}
+	
+	.slider-control li{
+		width: 80px!important;
+		margin-right: 0!important;
+		margin-top: 5px!important;
+	}
+	
+	.slider-control li img{
+		width: 100%!important;
+	}
+	
+	
+	
+	.slider-control {
+		left: 10px!important;
+	}
+	
+	.carusel-control {
+		top: 5px;
+	}
+	
+	.slider{
+		margin-top: 15px;
+	}
+	
+	.cube{
+		height: 185px;
+	}
+	
+	.cube span{
+		line-height:185px;
+	}
+	
+	.small-cube{
+		height: 100px;
+	}
+	
+	.small-cube span{
+		line-height: 100px;
+	}
+	
+	.main-bottom-h4 {
+		font-size: 10px;
+	}
+	
+	.bottom-section-h4 {
+		font-size: 11px;
+	}
+	
+	.bottom-section-imgandtext img {
+		width: 79px;
+	}
+	
+	.bottom-section-ul li {
+		padding: 8px 0;
+	}
+	
+	.bottom-section-ul li a {
+		font-size: 10px;
+	}
+	
+	p.padd-p {
+		padding-top: 5px;
+		font-size: 12px;
+	}
+	
+	p.comments-p {
+		padding: 5px 0;
+		font-size: 12.5px;
+	}
+	
+	.bottom-section-last-p {
+		font-size: 11.5px;
+	}
+	
+	.main-bottom-ul li {
+		padding: 8px 0px;
+	}
+	
+	.main-bottom-ul li a {
+		font-size: 12px;
+	}
+	
+	.twitter-text {
+		font-size: 12px;
+		padding: 5px 0;
+	}
+	
+	.twitter-text a{
+		font-size: 12px;
+	}
+	
+	.thumbnail-pp {
+		font-size: 12px;
+	}
+	
+	.thumbnail-a {
+		font-size: 12px;
+		padding-top: 8px;
+	}
+	
+	.thumbnail-p {
+		font-size: 12px;
+		padding-bottom: 8px;
+	}
+	
+	.media-h4 {
+		font-size: 11px;
+	}
+	
+	.footer-h5, .footer-h5 a {
+    font-size: 12px;
+}
+
+@media screen and (max-width: 767px){
+	
+	h1.logo a.navbar-brand {
+		margin-left: 13px;
+	}
+
+	.top-section{
+		display: none;
+	}
+	
+	.drp-ul li{
+		display: block;
+		text-align: center;
+	}
+	
+	.drp a{
+		display: block;
+		width: 400px;
+		margin: 0 auto;
+	}
+	.submenu li a{
+		display: inline-block;
+	}
+	
+	.last {
+		padding-bottom: 15px!important;
+	}
+	
+	.right-info li{
+		display: block;
+		text-align: center;
+	}
+	
+	.img{
+		display: none;
+	}
+	
+	.viewport-logo {
+		display: block;
+		text-align: center;
+	}
+	
+	.bottom-navbar-ul li{
+		display: block;
+		text-align: center;
+	}
+	
+	.bottom-navbar-ul li a{
+		border-right: none;
+		 padding: 4px 8px;
+	}
+	
+	.sbm {
+		position: relative;
+		top: 0;
+	}
+	
+	.drp a{
+		display: inline-block!important;
+	}
+	
+	.brd-left{
+		display: none;
+	}
+	
+	.main-top-h4{
+		text-align: right;
+	}
+	
+	.thumbnail-a, .thumbnail-h3, .thumbnail-p {
+		text-align: center;
+	}
+	
+	.med-block{
+		display: block;
+	}
+	
+	.med-block a img{
+		margin: 0 auto;
+	}
+	
+	
+	.main-bottom-h4 {
+		font-size: 12px;
+		text-align: center;
+}
+	
+	.media-border {
+		display: block;
+		width: 400px;
+		margin: 0 auto;
+	}
+	
+	
+	
+	.last-main-div{
+		text-align: center;
+	}
+	
+	
+	.last-main-div a.cd-top{
+		float: none!important;
+	}
+	
+	.bottom-section-imgandtext{
+		text-align: center;
+	}
+	
+	.bottom-section-ul li{
+		border-bottom: none;
+		text-align: center;
+	}
+	
+	.bottom-section-ul li a{
+		border-bottom: 1px solid #383838;
+		text-align: center;
+		padding: 8px 0;
+	}
+	
+	p.padd-p {
+		text-align: center;
+	}
+	
+	p.comments-p{
+		text-align: center;
+		border-bottom: none;
+	}
+	
+	.bottom-section-last-h3, .bottom-section-last-p, .footer-h6{
+		text-align: center;
+	}
+	
+	footer #last-h5{
+		float: none!important;
+		text-align: center;
+	}
+}
